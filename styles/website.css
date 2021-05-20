@@ -1,0 +1,65 @@
+/* p{
+    font-size: 1.5rem!important;
+    line-height: 3rem;
+} */
+html{
+    font-size:65%;
+}
+
+.markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6 {
+    margin-top: 2em;
+}
+
+.markdown-section p{
+    font-size: 1.63rem!important;
+    line-height: 3.6rem;
+    margin-bottom: 2rem;
+}
+
+.text-dark{
+    color: #333;
+}
+
+pre code{
+    font-size: 1.5rem!important;
+    line-height: 3rem;
+}
+
+.m-0 {
+    margin: 0 !important;
+}
+
+
+.m-4d5 {
+    margin: 2rem !important;
+}
+
+.mt-4d5,
+.my-4d5 {
+    margin-top: 2rem !important;
+}
+
+
+.mb-4d5,
+.my-4d5 {
+    margin-bottom: 2rem !important;
+}
+
+.d-flex {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+}
+
+
+.justify-content-center {
+    -webkit-box-pack: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important;
+}
+
+.align-items-center {
+    -webkit-box-align: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+}
