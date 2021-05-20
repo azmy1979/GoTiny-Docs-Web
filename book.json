@@ -1,0 +1,64 @@
+{
+  "title": "入微营销",
+  "author": "入微网",
+  "description": "",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "styles": {
+    "website": "./styles/website.css"
+  },
+  "plugins": [
+    "gta-baidu",
+    "-highlight",
+    "-sharing",
+    "-search",
+    "-lunr",
+    "expandable-chapters-small",
+    "search-pro",
+    "prism",
+    "splitter",
+    "-fontsettings",
+    "-navigator",
+    "hide-element",
+  
+    "gta",
+    "favicon-absolute",
+    "-livereload",
+    "bottom-navigation"
+  ],
+  "pluginsConfig": {
+    "fontsettings": {
+      "theme": "white",
+      "family": "sans",
+      "size": 3
+    },
+    "search-pro": {
+      "cutWordLib": "nodejieba",
+      "defineWord": [
+        "Gitbook Use"
+      ]
+    },
+    "hide-element": {
+      "elements": [
+        ".gitbook-link"
+      ]
+    },
+    "gta-baidu": {
+      "token": "36d62de8ae13a3da293f9ca5b42f0215",
+      "auto": false
+    },
+    "gta": {
+      "appId": "b837f718c6da6c48"
+    },
+    "favicon-absolute": {
+      "favicon": "/favicon.ico",
+      "appleTouchIconPrecomposed152": "/apple-touch-favicon-152.png"
+    },
+    "bottom-navigation": {
+      "iconColor": "#3884FE",
+      "titleColor": "#3884FE",
+      "borderColor": "#3884FE"
+    },
+    "expandable-chapters-small": {}
+  }
+}

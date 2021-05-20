@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-gta-baidu": "^1.0.1",
+    "gitbook-plugin-hide-element": "^0.0.4",
+    "global": "^4.4.0"
+  }
+}
